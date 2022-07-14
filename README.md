@@ -15,11 +15,7 @@
             "countryCode": " India",
             "region": "Gujarat"
         },
-        "profiles": [{
-                "network": "Twitter",
-                "username": "manasrathi",
-                "url": "https://www.twitter.com/manasrathi"
-            },
+        "profiles": [
             {
                 "network": "Github",
                 "username": "Manassrathi",
